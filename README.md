@@ -1,1 +1,1 @@
-# paper-bin
+# CP-2
